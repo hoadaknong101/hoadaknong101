@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hoaf
-- 👀 I’m interested in  coding, gaming
-- 🌱 I’m currently learning Java, C#, a little bit Python
+- 🔋 I’m interested in  coding, gaming
+- 💻 I’m currently learning Java, C#, a little bit Python
 - Instagram : https://www.instagram.com/hoaffffffffff/
 - Facebook : https://www.facebook.com/hoaffffff/
 - Youtube : https://www.youtube.com/quochoaeditor
